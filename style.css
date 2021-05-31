@@ -1,0 +1,132 @@
+#language {
+
+background-image: linear-gradient(pink,hotpink);
+padding-bottom: 20px;
+width:20%;
+height:35%;
+border-width:5px;
+border-style:solid;
+border-color:deeppink;
+border-radius:20px;
+margin-right:100%;
+margin-top:30px;
+font-family: 'Dancing Script', cursive;
+color:deeppink;
+
+
+
+}
+
+.b {
+
+width:80px;
+height:80px;
+border-width:5px;
+border-style:solid;
+border-color:deeppink;
+font-size:20px;
+border-radius:10px;
+font-family: 'Dancing Script', cursive;
+background-color:pink;
+color:hotpink;
+
+
+}
+
+#next {
+
+    width:100px;
+    height:50px;
+    border-width:5px;
+    border-style:solid;
+    border-color:deeppink;
+    font-size:15px;
+    border-radius:10px;
+    font-family: 'Dancing Script', cursive;
+    background-image: linear-gradient(pink,hotpink);
+    color:deeppink;
+    
+
+}
+
+
+#test_34 {
+
+font-size:50px;
+font-family: 'Dancing Script', cursive;
+
+}
+
+#b_s {
+
+    font-family: 'Dancing Script', cursive;
+    font-size:30px;
+    color:goldenrod;
+    background-color:rgb(240, 226, 151);
+
+}
+
+#b_f {
+
+    font-family: 'Dancing Script', cursive;
+    font-size:30px;
+    color:rgb(85, 201, 85);
+    background-color:lightgreen;
+
+}
+
+#b_e {
+
+    font-family: 'Dancing Script', cursive;
+    font-size:30px;
+    color:rgb(21, 179, 231);
+    background-color:skyblue;
+
+}
+
+#test_34 {
+
+color:deeppink;
+background-color:pink;
+
+}
+
+#regresa {
+    font-family: 'Dancing Script', cursive;
+    font-size:30px;
+    color:goldenrod;
+    background-color:rgb(240, 226, 151);
+    border-width:5px;
+    border-color:goldenrod;
+    border-style:solid;
+    border-radius:5px;
+}
+
+#Retourner{
+
+    font-family: 'Dancing Script', cursive;
+    font-size:30px;
+    color:rgb(85, 201, 85);
+    background-color:lightgreen;
+    border-width:5px;
+    border-color:rgb(85, 201, 85);
+    border-style:solid;
+    border-radius:5px;
+
+
+}
+
+
+#back {
+
+    font-family: 'Dancing Script', cursive;
+    font-size:30px;
+    color:rgb(21, 179, 231);
+    background-color:skyblue;
+    border-width:5px;
+    border-color:rgb(21, 179, 231);
+    border-style:solid;
+    border-radius:5px;
+
+
+}
